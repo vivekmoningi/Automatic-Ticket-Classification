@@ -24,5 +24,5 @@ Using 4 Models to test accuracy and using best model to define the model.
 
 4. Naive Bayes
 
-Logistic Regression did best with 90% accuracy.
+Logistic Regression did best with 93% accuracy.
 
